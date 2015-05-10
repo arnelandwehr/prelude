@@ -1,0 +1,3 @@
+[submodule "personal/yasnippet-snippets"]
+	path = personal/yasnippet-snippets
+	url = https://github.com/AndreaCrotti/yasnippet-snippets.git
